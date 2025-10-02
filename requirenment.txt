@@ -1,0 +1,8 @@
+fastmcp
+mcp
+pysr>=0.18.0
+numpy
+pandas
+sympy
+torch
+jax
